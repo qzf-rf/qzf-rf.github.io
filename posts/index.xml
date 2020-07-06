@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 个人博客</title>
+    <link>https://qzf-rf.github.io/posts/</link>
+    <description>Recent content in Posts on 个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jul 2020 15:27:51 +0800</lastBuildDate>
+    
+	<atom:link href="https://qzf-rf.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【虞龙】归乡</title>
+      <link>https://qzf-rf.github.io/posts/test/</link>
+      <pubDate>Mon, 06 Jul 2020 15:27:51 +0800</pubDate>
+      
+      <guid>https://qzf-rf.github.io/posts/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
